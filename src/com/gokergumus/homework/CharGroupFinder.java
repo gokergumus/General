@@ -32,8 +32,8 @@ public class CharGroupFinder {
 			k++;
 		}
 		
-		System.out.println("target array is:" + target);
+		System.out.println("target array is:");
 		System.out.println(target);
-		System.out.println(target[5]);
+		
 	}
 }
